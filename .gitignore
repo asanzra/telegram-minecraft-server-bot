@@ -1,0 +1,12 @@
+my-venv
+.venv/
+__pycache__/
+*.pyc
+# Local environment file
+.env
+.DS_Store
+# Runtime data and logs (bot will create these files as needed)
+data/
+server_uptime.log
+server_sessions.json
+server_stats.json
